@@ -1,0 +1,24 @@
+{
+  "name": "amp-cache-invalidator",
+  "version": "1.0.0",
+  "description": "amp hackday cache invalidator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thearegee/amp-cache-invalidator.git"
+  },
+  "author": "Robin Glen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thearegee/amp-cache-invalidator/issues"
+  },
+  "homepage": "https://github.com/thearegee/amp-cache-invalidator#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
